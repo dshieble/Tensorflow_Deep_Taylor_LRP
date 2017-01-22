@@ -1,5 +1,7 @@
 # Tensorflow_Deep_Taylor_LRP
-Layerwise Relevance Propagation with Deep Taylor Series in TensorFlow
+Layerwise Relevance Propagation with Deep Taylor Series in TensorFlow.
+
+You can use LRP to visualize the relative feature importances of the input to a neural network. 
 
 ## How to Use
 
